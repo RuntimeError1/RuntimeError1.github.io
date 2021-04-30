@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Kaiyuan Liao"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Kaiyuan Liao"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Kaiyuan Liao"
   avatar           : "profile.png"
   bio              : "Master Student at Peking University"
   location         : "Beijing"
