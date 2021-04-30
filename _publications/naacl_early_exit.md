@@ -6,6 +6,6 @@ permalink: /publication/naacl_early_exit.pdf
 date: 2021-06-11
 venue: 'NAACL'
 paperurl:
-code: ''
-citation: 'Kaiyuan Liao, Yi Zhang, Xuancheng Ren, Qi Su, Xu Sun, Bin He. (NAACL 2021)'
+code: 'https://github.com/lancopku/Early-Exit'
+citation:
 ---
