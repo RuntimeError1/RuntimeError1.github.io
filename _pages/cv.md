@@ -17,9 +17,3 @@ Education
 Work experience
 ======
 * 2017-2018, working in ShenZhen
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
