@@ -16,4 +16,5 @@ Education
 
 Work experience
 ======
+* 2021-current, Research intern in WXG, Tencent, Beijing
 * 2017-2018, working in ShenZhen
