@@ -13,12 +13,9 @@ Education
 ======
 * M.S. in Data Science(Computer Science and Engineering), Academy for Advanced Interdisciplinary Studies,Peking University, 2019-2022(expected)
 * B.S. in Material Science and Engineering, College of Material Science and Engineering, Hunan University, 2013-2017
-  *Rank: 1/28  GPA: 4.02/4.50
+  * Rank: 1/28  GPA: 4.02/4.50
 
 Work experience
 ======
 * 2021-current, Research intern in Wechat Group, Tencent, Beijing
 * 2017-2018, working in ShenZhen
-
-* B.S. in Material Science and Engineering, College of Material Science and Engineering, Hunan University, 2013-2017
-  * Rank: 1/28  GPA: 4.02/4.50
