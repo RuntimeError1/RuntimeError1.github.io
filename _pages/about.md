@@ -11,8 +11,8 @@ I am a master candidate in the Academy for Advanced Interdisciplinary Studies at
 
 Education
 ======
-* B.S. in Material Science and Engineering, Hunan University, 2013-2017
-* M.S. in Data Science(Computer Science and Engineering), Peking University, 2019-2022(expected)
+* M.S. in Data Science(Computer Science and Engineering), Academy for Advanced Interdisciplinary Studies,Peking University, 2019-2022(expected)
+* B.S. in Material Science and Engineering, College of Material Science and Engineering, Hunan University, 2013-2017
 
 Work experience
 ======
